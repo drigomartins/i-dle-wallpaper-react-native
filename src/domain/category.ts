@@ -1,6 +1,8 @@
 export type Category =
-  | 'Karina'
-  | 'Winter'
-  | 'Giselle'
-  | 'Ningning'
-  | 'Aespa'
+  | 'Song Yuqi'
+  | 'Minnie'
+  | 'Seo Soo-jin'
+  | 'Cho Mi-yeon'
+  | 'Jeon So-yeon'
+  | 'Yeh Shu Hua'
+  | '(G)I-DLE'
